@@ -1,1 +1,1 @@
-Readme file planning to update it later
+Readme file pending for update
