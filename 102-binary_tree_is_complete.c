@@ -59,7 +59,6 @@ int binary_tree_is_complete(const binary_tree_t *tree)
 
 	head = add_queue(tree, &tail, &q_size);
 
-	head;
 	while (head && head->node)
 	{
 		node = head->node;
